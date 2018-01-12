@@ -1,0 +1,2776 @@
+{
+	"folder_history":
+	[
+		"/D/electron-serialport",
+		"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master",
+		"/C/xampp/htdocs",
+		"/C/Users/CSV/Desktop/个人年度总结"
+	],
+	"last_version": 3143,
+	"last_window_id": 125,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 615.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"che",
+						"checked〔function〕"
+					],
+					[
+						"S",
+						"Source"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"关闭",
+						"关闭窗口"
+					],
+					[
+						"sou",
+						"Source"
+					],
+					[
+						"mouse",
+						"mouseup\t.mouseup()"
+					],
+					[
+						"mous",
+						"mousedown\t.mousedown()"
+					],
+					[
+						"s",
+						"Styles/"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"sh",
+						"showHideTimer"
+					],
+					[
+						"mo",
+						"mouseover〔function〕"
+					],
+					[
+						"h",
+						"html/"
+					],
+					[
+						"css",
+						"CSS调用"
+					],
+					[
+						"w",
+						"width〔variable〕"
+					],
+					[
+						"doc",
+						"document.getElementById(\"imgApply\").name.toString"
+					],
+					[
+						"data",
+						"dataTime〔variable〕"
+					],
+					[
+						"Da",
+						"DataArray"
+					],
+					[
+						"D",
+						"DataArray"
+					],
+					[
+						"A",
+						"Array"
+					],
+					[
+						"time",
+						"timeSave〔variable〕"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"drawData"
+					],
+					[
+						"dr",
+						"drawData.css"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"ret",
+						"returnData〔variable〕"
+					],
+					[
+						"port",
+						"port.write"
+					],
+					[
+						"send",
+						"sendResponse〔variable〕"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"att",
+						"attData"
+					],
+					[
+						"geo",
+						"geoData"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"la",
+						"layer"
+					],
+					[
+						"userna",
+						"username"
+					],
+					[
+						"p",
+						"userPassword"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"g",
+						"getjson\t$.getjson()"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter t",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"phpfmt",
+						"phpfmt: format now"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sna func",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"ht",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"latex",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV20180102/README.md",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/renderer.js",
+				"/D/webDemoNedbV20180102/main.js",
+				"/D/webDemoNedbV20180102/web/index.html",
+				"/D/webDemoNedbV20180102/web/Scripts/map/drawMap.js",
+				"/D/webDemoNedbV20180102/web/dataTool/dbService.js",
+				"/C/Users/CSV/Desktop/高程和路线信息（学院路）.txt",
+				"/C/Program Files (x86)/foobar2000/汉化说明.txt",
+				"/D/webDemoNedbV20180102/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV20180102/web/dataTool/lampLocal.db",
+				"/C/Users/CSV/AppData/Local/ElectronAPIDemos/app-1.3.0/resources/app/sections/windows/modal.html",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA201814.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171221.db",
+				"/D/webDemoNedbV20180102/web/index1.html",
+				"/D/webDemoNedbV20180102/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV20180102/web/Scripts/map/mapBasic.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/form.css",
+				"/D/webDemoNedbV16/package.json",
+				"/D/webDemoNedbV20180102/web/Scripts/map/OLMaps.js",
+				"/D/webDemoNedbV20180102/bower_components/bootstrap/dist/css/bootstrap.css",
+				"/D/webDemoNedbV20180102/web/html/serialPortInformation.html",
+				"/C/Users/CSV/Desktop/201610111542/index.html",
+				"/D/webDemoNedbV20180102/web/html/login.html",
+				"/D/webDemoNedbV/web/html/floatingWindow.tpl",
+				"/D/webDemoNedbV/web/html/map.tpl",
+				"/D/webDemoNedbV/web/Scripts/olMap.js",
+				"/D/webDemoNedbV/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV/main.js",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-fbfffa58181978453-20.dop/Read me!!!.txt",
+				"/D/webDemoNedbV/web/Libs/ol/ol.css",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV/web/Scripts/d3data.js",
+				"/D/webDemoNedbV/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/webDemoNedbV/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV/bower_components/bootstrap/dist/js/bootstrap.js",
+				"/D/webDemoNedbV/web/Scripts/d3data1.js",
+				"/D/webDemoNedbV/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/MultiFill/MultiFill.sublime-settings",
+				"/D/webDemoNedbV/web/Libs/ol/ol.js",
+				"/D/webDemoNedbV/package.json",
+				"/D/webDemoNedbV/web/dataTool/dbService.js",
+				"/D/webDemoNedbV/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171225.db",
+				"/D/webDemoNedbV/web/Source/data/data.csv",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/D/webDemoNedbV/web/Source/data/stocks.csv",
+				"/D/webDemoNedbV/node_modules/d3-dsv/src/csv.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/temp_geo/webDemoNedbV035/web/Scripts/Openlayers/drawMap.js",
+				"/E/temp_geo/webDemoNedbV035/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV034/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV01/web/Scripts/Openlayers/drawMap.js",
+				"/D/webDemoNedbV01/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.cpp",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.h",
+				"/D/webDemoNedbV01/node_modules/serialport/.eslintrc.js",
+				"/D/webDemoNedbV01/web/dataTool/DateStore.db",
+				"/D/webDemoNedbV01/web/dataTool/DateStore20171219.db",
+				"/C/Users/CSV/Documents/2017LV-WinChn/2017LV-WinChn/NI License Activator 1.1/readme.txt",
+				"/D/webDemoNedbV01/package.json",
+				"/D/webDemoNedbV01/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js",
+				"/D/webDemoNedbV01/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV01/main.js",
+				"/D/webDemoVnedb/web/dataTool/lampLocal.db",
+				"/C/Python27/README.txt",
+				"/D/webDemoVnedb/web/html/serialPortInformation.html",
+				"/D/webDemoVnedb/web/Scripts/serialport/renderer.js",
+				"/D/webDemoVnedb/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/D/webDemoVnedb/web/dataTool/12345mails.db",
+				"/D/webDemoVnedb/main1.js",
+				"/C/Users/CSV/Desktop/watcher-master/app/libs/dbService.js",
+				"/D/webDemoV/web/Scripts/layer/layer.js",
+				"/D/webDemoV/renderer.js",
+				"/D/webDemoV/web/index.html",
+				"/D/webDemoV/node_modules/isarray/build/build.js",
+				"/D/electron-serialport (2)/main.js",
+				"/D/webDemoV/package.json",
+				"/D/webDemoV/node_modules/yargs/yargs.js",
+				"/D/webDemoV/web/Libs/ol/ol-debug.js",
+				"/D/webDemoV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Drawing/SaveFeatures.htm",
+				"/D/electron-serialport/syncWebDemoV/Scripts/olMap.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Others/HotSpots.htm",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/test.js",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package.json",
+				"/C/Users/CSV/node_modules/serialport/README.md",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/main.js",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/index.js",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.js",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package1.json",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/README.md",
+				"/C/Users/CSV/node_modules/serialport/lib/index.js",
+				"/C/Users/CSV/node_modules/serialport/test.js",
+				"/C/xampp/htdocs/demoSerial/browserSerialport/index.html",
+				"/C/xampp/htdocs/demoSerial/index.php",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/xampp/php/php.ini",
+				"/C/xampp/htdocs/demoSerial/Lib/Ohsce/ext/ohscecloudapi/ohsce_ext.php",
+				"/C/xampp/htdocs/demoSerial/Lib/Ohsce/ext/ohscecloudapi/license.txt",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/xampp/htdocs/demoSerial/index.html",
+				"/C/Users/CSV/Desktop/Ohsce-master/license.txt",
+				"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/demo/test.db",
+				"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/demo/index.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/phpfmt/message",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/serwebproxy.vcxproj",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/windows_binary/serwebproxy.cfg",
+				"/C/OpenSSL-Win32/lib/VC/static/libeay32MD.lib",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-e62ff7f819919734-20.dop/INSTALL-win32.txt",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/README",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/INSTALL-win32.txt",
+				"/C/Users/CSV/syncWebDemoV/ajax/geoData.ashx"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 145.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"type=\"number\"",
+					"串口信息",
+					"串口",
+					"tableIDInformation",
+					"createTable",
+					"serialModal",
+					"高级",
+					"serialModal",
+					"高级",
+					"串口",
+					"adminSelect",
+					"adminOperaOpen"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1342.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"S",
+						"Source"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"关闭",
+						"关闭窗口"
+					],
+					[
+						"sou",
+						"Source"
+					],
+					[
+						"mouse",
+						"mouseup\t.mouseup()"
+					],
+					[
+						"mous",
+						"mousedown\t.mousedown()"
+					],
+					[
+						"s",
+						"Styles/"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"sh",
+						"showHideTimer"
+					],
+					[
+						"mo",
+						"mouseover〔function〕"
+					],
+					[
+						"h",
+						"html/"
+					],
+					[
+						"css",
+						"CSS调用"
+					],
+					[
+						"w",
+						"width〔variable〕"
+					],
+					[
+						"doc",
+						"document.getElementById(\"imgApply\").name.toString"
+					],
+					[
+						"data",
+						"dataTime〔variable〕"
+					],
+					[
+						"Da",
+						"DataArray"
+					],
+					[
+						"D",
+						"DataArray"
+					],
+					[
+						"A",
+						"Array"
+					],
+					[
+						"time",
+						"timeSave〔variable〕"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"drawData"
+					],
+					[
+						"dr",
+						"drawData.css"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"ret",
+						"returnData〔variable〕"
+					],
+					[
+						"port",
+						"port.write"
+					],
+					[
+						"send",
+						"sendResponse〔variable〕"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"att",
+						"attData"
+					],
+					[
+						"geo",
+						"geoData"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"la",
+						"layer"
+					],
+					[
+						"userna",
+						"username"
+					],
+					[
+						"p",
+						"userPassword"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"g",
+						"getjson\t$.getjson()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12108,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/serialport/SerialPortInformation.js",
+					"settings":
+					{
+						"buffer_size": 1242,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/serialport/NodeSerialPort.js",
+					"settings":
+					{
+						"buffer_size": 5857,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Styles/css/StyleSheet.css",
+					"settings":
+					{
+						"buffer_size": 3831,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/map/OLMaps.js",
+					"settings":
+					{
+						"buffer_size": 17017,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/map/drawMap.js",
+					"settings":
+					{
+						"buffer_size": 993,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/SysFun.js",
+					"settings":
+					{
+						"buffer_size": 4280,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter t",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"phpfmt",
+						"phpfmt: format now"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sna func",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"ht",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"latex",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/webDemoNedbTestSignal",
+				"/D/webDemoNedbTestSignal/web",
+				"/D/webDemoNedbTestSignal/web/Scripts",
+				"/D/webDemoNedbTestSignal/web/Scripts/map",
+				"/D/webDemoNedbTestSignal/web/Scripts/serialport",
+				"/D/webDemoNedbTestSignal/web/Styles",
+				"/D/webDemoNedbTestSignal/web/Styles/css"
+			],
+			"file_history":
+			[
+				"/D/webDemoNedbTestSignal/web/Styles/css/form.css",
+				"/D/webDemoNedbTestSignal/web/Styles/css/drawData.css",
+				"/D/webDemoNedbTestSignal/web/dataTool/latestData.db",
+				"/D/webDemoNedbTestSignal/web/dataTool/dataVandA201817.db",
+				"/D/webDemoNedbTestSignal/web/dataTool/dbService.js",
+				"/D/webDemoNedbTestSignal/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbTestSignal/web/Styles/css/StyleSheet.css",
+				"/C/Users/CSV/Desktop/高程和路线信息（学院路）.txt",
+				"/C/Program Files (x86)/foobar2000/汉化说明.txt",
+				"/D/webDemoNedbV20180102/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/dataTool/lampLocal.db",
+				"/C/Users/CSV/AppData/Local/ElectronAPIDemos/app-1.3.0/resources/app/sections/windows/modal.html",
+				"/D/webDemoNedbV20180102/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA201814.db",
+				"/D/webDemoNedbV20180102/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171221.db",
+				"/D/webDemoNedbV20180102/web/Scripts/map/drawMap.js",
+				"/D/webDemoNedbV20180102/web/index1.html",
+				"/D/webDemoNedbV20180102/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV20180102/main.js",
+				"/D/webDemoNedbV20180102/web/Scripts/map/mapBasic.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/form.css",
+				"/D/webDemoNedbV16/package.json",
+				"/D/webDemoNedbV20180102/web/Scripts/map/OLMaps.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV20180102/bower_components/bootstrap/dist/css/bootstrap.css",
+				"/D/webDemoNedbV20180102/web/html/serialPortInformation.html",
+				"/C/Users/CSV/Desktop/201610111542/index.html",
+				"/D/webDemoNedbV20180102/web/html/login.html",
+				"/D/webDemoNedbV/web/html/floatingWindow.tpl",
+				"/D/webDemoNedbV/web/html/map.tpl",
+				"/D/webDemoNedbV/web/Scripts/olMap.js",
+				"/D/webDemoNedbV/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV/main.js",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-fbfffa58181978453-20.dop/Read me!!!.txt",
+				"/D/webDemoNedbV/web/Libs/ol/ol.css",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV/web/Scripts/d3data.js",
+				"/D/webDemoNedbV/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/webDemoNedbV/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV/bower_components/bootstrap/dist/js/bootstrap.js",
+				"/D/webDemoNedbV/web/Scripts/d3data1.js",
+				"/D/webDemoNedbV/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/MultiFill/MultiFill.sublime-settings",
+				"/D/webDemoNedbV/web/Libs/ol/ol.js",
+				"/D/webDemoNedbV/package.json",
+				"/D/webDemoNedbV/web/dataTool/dbService.js",
+				"/D/webDemoNedbV/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171225.db",
+				"/D/webDemoNedbV/web/Source/data/data.csv",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/D/webDemoNedbV/web/Source/data/stocks.csv",
+				"/D/webDemoNedbV/node_modules/d3-dsv/src/csv.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/temp_geo/webDemoNedbV035/web/Scripts/Openlayers/drawMap.js",
+				"/E/temp_geo/webDemoNedbV035/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV034/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV01/web/Scripts/Openlayers/drawMap.js",
+				"/D/webDemoNedbV01/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.cpp",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.h",
+				"/D/webDemoNedbV01/node_modules/serialport/.eslintrc.js",
+				"/D/webDemoNedbV01/web/dataTool/DateStore.db",
+				"/D/webDemoNedbV01/web/dataTool/DateStore20171219.db",
+				"/C/Users/CSV/Documents/2017LV-WinChn/2017LV-WinChn/NI License Activator 1.1/readme.txt",
+				"/D/webDemoNedbV01/package.json",
+				"/D/webDemoNedbV01/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js",
+				"/D/webDemoNedbV01/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV01/main.js",
+				"/D/webDemoVnedb/web/dataTool/lampLocal.db",
+				"/C/Python27/README.txt",
+				"/D/webDemoVnedb/web/html/serialPortInformation.html",
+				"/D/webDemoVnedb/web/Scripts/serialport/renderer.js",
+				"/D/webDemoVnedb/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/D/webDemoVnedb/web/dataTool/12345mails.db",
+				"/D/webDemoVnedb/main1.js",
+				"/C/Users/CSV/Desktop/watcher-master/app/libs/dbService.js",
+				"/D/webDemoV/web/Scripts/layer/layer.js",
+				"/D/webDemoV/renderer.js",
+				"/D/webDemoV/web/index.html",
+				"/D/webDemoV/node_modules/isarray/build/build.js",
+				"/D/electron-serialport (2)/main.js",
+				"/D/webDemoV/package.json",
+				"/D/webDemoV/node_modules/yargs/yargs.js",
+				"/D/webDemoV/web/Libs/ol/ol-debug.js",
+				"/D/webDemoV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Drawing/SaveFeatures.htm",
+				"/D/electron-serialport/syncWebDemoV/Scripts/olMap.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Others/HotSpots.htm",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/test.js",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package.json",
+				"/C/Users/CSV/node_modules/serialport/README.md",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/main.js",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/index.js",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.js",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package1.json",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/README.md",
+				"/C/Users/CSV/node_modules/serialport/lib/index.js",
+				"/C/Users/CSV/node_modules/serialport/test.js",
+				"/C/xampp/htdocs/demoSerial/browserSerialport/index.html",
+				"/C/xampp/htdocs/demoSerial/index.php",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/xampp/php/php.ini",
+				"/C/xampp/htdocs/demoSerial/Lib/Ohsce/ext/ohscecloudapi/ohsce_ext.php",
+				"/C/xampp/htdocs/demoSerial/Lib/Ohsce/ext/ohscecloudapi/license.txt",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/xampp/htdocs/demoSerial/index.html",
+				"/C/Users/CSV/Desktop/Ohsce-master/license.txt",
+				"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/demo/test.db",
+				"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/demo/index.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/phpfmt/message",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/serwebproxy.vcxproj",
+				"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/windows_binary/serwebproxy.cfg",
+				"/C/OpenSSL-Win32/lib/VC/static/libeay32MD.lib",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-e62ff7f819919734-20.dop/INSTALL-win32.txt"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 145.0,
+				"where_history":
+				[
+					"*.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tableIDDisplayFunc",
+					"max",
+					"tableIDInforFunc",
+					"发送",
+					"button",
+					"commandDisplayID",
+					"style",
+					"commandDisplayID",
+					"drawDataID",
+					"adminSelect",
+					"drawDataID",
+					"history",
+					"drawDataID",
+					"backdrop",
+					"clear",
+					"lampInputInform",
+					"秒后",
+					"close",
+					"dataToDraw",
+					"feature",
+					"dataToDraw",
+					"var coordinate",
+					"var feature",
+					"feature",
+					"feature.get('info').actualID",
+					"info",
+					"lampLocalArray",
+					"drawDataID",
+					"history",
+					"showDetailsInfo",
+					"border-radius",
+					"submitData",
+					"myModalLabel",
+					"createLabel",
+					"map",
+					"onclick",
+					"time",
+					"selectID",
+					"adminOperation",
+					"collapseOne",
+					"addLampFunc",
+					"dataToDraw",
+					"addLampSelect",
+					"submitData",
+					"inputHandUserid",
+					"preFeature",
+					"addLampFunc",
+					"needPasswordFunc",
+					"adminOperationFunc",
+					"collapseOne",
+					"\nlampOnMapFunction",
+					"activeUserFunc",
+					"serialInformation",
+					"myModal",
+					"SerialPort",
+					"addLampFunc",
+					"map",
+					"getElementsByClassID",
+					"getElementsByID",
+					"index",
+					"dataToDraw",
+					"drawData",
+					"无此",
+					"typeSelect",
+					"getElementById",
+					"lampOperation",
+					"pointermove",
+					"typeSelect",
+					"type",
+					"map",
+					"li",
+					".li",
+					"checked",
+					"o",
+					"map",
+					"createLabelStyle",
+					"makerfeature",
+					"winWidth",
+					"showDetailsInfo",
+					"show(",
+					"768",
+					"xa",
+					"datazoo",
+					"512",
+					"768",
+					"\"}",
+					"768",
+					"applyContainer",
+					"sqMain",
+					"xScale",
+					"datainfo",
+					"domain",
+					"find",
+					"127.",
+					"csv",
+					"function style(",
+					"function style",
+					"d3data",
+					"ChartObj",
+					"showDetailsInfo",
+					"getAttribute",
+					"line.interpolate",
+					".interpolate",
+					"interpolate",
+					"svg.line",
+					"svg",
+					"line",
+					"category10",
+					"select",
+					"category10",
+					"color",
+					"$",
+					"hover",
+					"imgApply",
+					"z-index",
+					"调用数据",
+					"applyContainer",
+					"comApply",
+					".get(0).checked",
+					"$(\"#deleteLamp\").get(0).checked",
+					"getElementById",
+					"applyContainer",
+					"comApply",
+					"hlxxTab",
+					"css",
+					"find",
+					"in",
+					"ins"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12108,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												5329,
+												5329
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										11701,
+										11719
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3787,
+												3788
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3770,
+												3771
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												11719,
+												11720
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												11700,
+												11701
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4086.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "web/Scripts/serialport/SerialPortInformation.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1242,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 138.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "web/Scripts/serialport/NodeSerialPort.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5857,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2324,
+										2324
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2337,
+												2338
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2283,
+												2284
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2337,
+												2338
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2283,
+												2284
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 846.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "web/Styles/css/StyleSheet.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3831,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2173,
+										2173
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2246,
+												2247
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2087,
+												2088
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2246,
+												2247
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2087,
+												2088
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2379.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "web/Scripts/map/OLMaps.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17017,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9256,
+										9056
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9329,
+												9330
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8753,
+												8754
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9329,
+												9330
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8753,
+												8754
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "web/Scripts/map/drawMap.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 993,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										327,
+										327
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												570,
+												571
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												435,
+												436
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												332,
+												333
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												120,
+												121
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "web/Scripts/SysFun.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4280,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												382,
+												382
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										528,
+										528
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												555,
+												556
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												535,
+												536
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												568,
+												569
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												527,
+												528
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,1002,-48,328,1310",
+			"project": "Sublime.sublime-project",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 125,
+			"workspace_name": "/D/webDemoNedbTestSignal/Sublime.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/webDemoNedbTestSignal/Sublime.sublime-workspace",
+			"/D/webDemoNedbV20180102 (2)/webDemoNedbV20180102/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V20180107/Lamp_M/Sublime.sublime-workspace",
+			"/D/webDemoNedbV20180102/Sublime.sublime-workspace",
+			"/D/webDemoNedbV16/Sublime.sublime-workspace",
+			"/C/Users/CSV/Documents/Tencent Files/839364051/FileRecv/webDemoNedbV20180107/webDemoNedbV20180107/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V/Lamp_M/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V/Lamp_S/Sublime.sublime-workspace",
+			"/D/webDemoV/Sublime.sublime-workspace",
+			"/D/FangCloudV2/tudou/yangSync/webDemoNedbV/Sublime.sublime-workspace",
+			"/D/webDemoNedbV/Sublime.sublime-workspace",
+			"/D/webDemoNedbV04/Sublime.sublime-workspace",
+			"/D/webDemoNedbV0361/Sublime.sublime-workspace",
+			"/D/webDemoNedbV03/Sublime.sublime-workspace",
+			"/D/webDemoNedbV02/Sublime.sublime-workspace",
+			"/D/webDemoNedbV01/Sublime.sublime-workspace",
+			"/D/HZ_Smart_C_V/Lamp_S/Sublime.sublime-workspace",
+			"/D/HZ_Smart_C_V/Lamp_M/Sublime.sublime-workspace",
+			"/D/webDemoVnedb/Sublime.sublime-workspace",
+			"/D/electron-serialport/Sublime.sublime-workspace",
+			"/D/electron-serialport/sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/sublime.sublime-workspace",
+			"/C/xampp/htdocs/sublime.sublime-workspace",
+			"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/serial-master/serial.sublime-workspace",
+			"/C/Users/CSV/syncWebDemoV/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/web-serialDebug-master/web-serialDebug-master/Sublime.sublime-workspace",
+			"/C/Users/CSV/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/Public/Documents/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/CSV/syncWebDemoV0.2/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/demov0.1/demo/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/个人年度总结/sublimeProject.sublime-workspace"
+		]
+	}
+}

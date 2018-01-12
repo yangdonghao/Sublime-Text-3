@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"CodeFormatter",
+		"Color Highlighter",
+		"CoolFormat",
+		"CSS Comments",
+		"CSSLint",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Interpol",
+		"JavaScript Snippets",
+		"jQuery",
+		"LaTeXTools",
+		"LiveStyle",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"MarkdownLivePreview",
+		"MultiFill",
+		"Package Control",
+		"phpfmt",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-htmllint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SummitLinter"
+	]
+}

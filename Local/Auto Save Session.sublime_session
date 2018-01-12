@@ -1,0 +1,3647 @@
+{
+	"folder_history":
+	[
+		"/D/electron-serialport",
+		"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master",
+		"/C/xampp/htdocs",
+		"/C/Users/CSV/Desktop/个人年度总结"
+	],
+	"last_version": 3143,
+	"last_window_id": 127,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 615.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DA",
+						"Date"
+					],
+					[
+						"da",
+						"Date"
+					],
+					[
+						"che",
+						"checked〔function〕"
+					],
+					[
+						"S",
+						"Source"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"关闭",
+						"关闭窗口"
+					],
+					[
+						"sou",
+						"Source"
+					],
+					[
+						"mouse",
+						"mouseup\t.mouseup()"
+					],
+					[
+						"mous",
+						"mousedown\t.mousedown()"
+					],
+					[
+						"s",
+						"Styles/"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"sh",
+						"showHideTimer"
+					],
+					[
+						"mo",
+						"mouseover〔function〕"
+					],
+					[
+						"h",
+						"html/"
+					],
+					[
+						"css",
+						"CSS调用"
+					],
+					[
+						"w",
+						"width〔variable〕"
+					],
+					[
+						"doc",
+						"document.getElementById(\"imgApply\").name.toString"
+					],
+					[
+						"data",
+						"dataTime〔variable〕"
+					],
+					[
+						"Da",
+						"DataArray"
+					],
+					[
+						"D",
+						"DataArray"
+					],
+					[
+						"A",
+						"Array"
+					],
+					[
+						"time",
+						"timeSave〔variable〕"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"drawData"
+					],
+					[
+						"dr",
+						"drawData.css"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"ret",
+						"returnData〔variable〕"
+					],
+					[
+						"port",
+						"port.write"
+					],
+					[
+						"send",
+						"sendResponse〔variable〕"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"att",
+						"attData"
+					],
+					[
+						"geo",
+						"geoData"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"la",
+						"layer"
+					],
+					[
+						"userna",
+						"username"
+					],
+					[
+						"p",
+						"userPassword"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"g",
+						"getjson\t$.getjson()"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter t",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"phpfmt",
+						"phpfmt: format now"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sna func",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"ht",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"latex",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/webDemoNedbV20180110afternoon/web/README.md",
+				"/D/webDemoNedbV20180110afternoon/web/dataTool/dbService.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate/dataVandA20180111.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/mapBasic.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/SysFun.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa5208.33544/OLMaps.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa11776.28996/OLMaps.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/lampBackups/lampBackup.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/netUidConnect.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate - 副本/dataVandA2018110.db",
+				"/E/temp_geo/webDemoNedbV20180110/main.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/form.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/drawData.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/OLMaps.js",
+				"/C/Users/13010/Desktop/新建文本文档 (2).txt",
+				"/C/Users/13010/Desktop/新建文本文档.txt",
+				"/E/temp_geo/webDemoNedbV20180110/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171221.db",
+				"/D/webDemoNedbV20180102/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV20180102/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/Scripts/map/mapBasic.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/form.css",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV20180102/web/Scripts/map/drawMap.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV20180102/web/dataTool/dbService.js",
+				"/C/Users/CSV/Desktop/高程和路线信息（学院路）.txt",
+				"/C/Program Files (x86)/foobar2000/汉化说明.txt",
+				"/D/webDemoNedbV20180102/web/Scripts/draw/echartsDraw.js",
+				"/C/Users/CSV/AppData/Local/ElectronAPIDemos/app-1.3.0/resources/app/sections/windows/modal.html",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA201814.db",
+				"/D/webDemoNedbV20180102/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV20180102/web/index1.html",
+				"/D/webDemoNedbV20180102/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV20180102/main.js",
+				"/D/webDemoNedbV16/package.json",
+				"/D/webDemoNedbV20180102/web/Scripts/map/OLMaps.js",
+				"/D/webDemoNedbV20180102/bower_components/bootstrap/dist/css/bootstrap.css",
+				"/D/webDemoNedbV20180102/web/html/serialPortInformation.html",
+				"/C/Users/CSV/Desktop/201610111542/index.html",
+				"/D/webDemoNedbV20180102/web/html/login.html",
+				"/D/webDemoNedbV/web/html/floatingWindow.tpl",
+				"/D/webDemoNedbV/web/html/map.tpl",
+				"/D/webDemoNedbV/web/Scripts/olMap.js",
+				"/D/webDemoNedbV/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV/main.js",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-fbfffa58181978453-20.dop/Read me!!!.txt",
+				"/D/webDemoNedbV/web/Libs/ol/ol.css",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV/web/Scripts/d3data.js",
+				"/D/webDemoNedbV/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/webDemoNedbV/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV/bower_components/bootstrap/dist/js/bootstrap.js",
+				"/D/webDemoNedbV/web/Scripts/d3data1.js",
+				"/D/webDemoNedbV/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/MultiFill/MultiFill.sublime-settings",
+				"/D/webDemoNedbV/web/Libs/ol/ol.js",
+				"/D/webDemoNedbV/package.json",
+				"/D/webDemoNedbV/web/dataTool/dbService.js",
+				"/D/webDemoNedbV/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171225.db",
+				"/D/webDemoNedbV/web/Source/data/data.csv",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/D/webDemoNedbV/web/Source/data/stocks.csv",
+				"/D/webDemoNedbV/node_modules/d3-dsv/src/csv.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/temp_geo/webDemoNedbV035/web/Scripts/Openlayers/drawMap.js",
+				"/E/temp_geo/webDemoNedbV035/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV034/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV01/web/Scripts/Openlayers/drawMap.js",
+				"/D/webDemoNedbV01/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.cpp",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.h",
+				"/D/webDemoNedbV01/node_modules/serialport/.eslintrc.js",
+				"/D/webDemoNedbV01/web/dataTool/DateStore.db",
+				"/D/webDemoNedbV01/web/dataTool/DateStore20171219.db",
+				"/C/Users/CSV/Documents/2017LV-WinChn/2017LV-WinChn/NI License Activator 1.1/readme.txt",
+				"/D/webDemoNedbV01/package.json",
+				"/D/webDemoNedbV01/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js",
+				"/D/webDemoNedbV01/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV01/main.js",
+				"/D/webDemoVnedb/web/dataTool/lampLocal.db",
+				"/C/Python27/README.txt",
+				"/D/webDemoVnedb/web/html/serialPortInformation.html",
+				"/D/webDemoVnedb/web/Scripts/serialport/renderer.js",
+				"/D/webDemoVnedb/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/D/webDemoVnedb/web/dataTool/12345mails.db",
+				"/D/webDemoVnedb/main1.js",
+				"/C/Users/CSV/Desktop/watcher-master/app/libs/dbService.js",
+				"/D/webDemoV/web/Scripts/layer/layer.js",
+				"/D/webDemoV/renderer.js",
+				"/D/webDemoV/web/index.html",
+				"/D/webDemoV/node_modules/isarray/build/build.js",
+				"/D/electron-serialport (2)/main.js",
+				"/D/webDemoV/package.json",
+				"/D/webDemoV/node_modules/yargs/yargs.js",
+				"/D/webDemoV/web/Libs/ol/ol-debug.js",
+				"/D/webDemoV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Drawing/SaveFeatures.htm",
+				"/D/electron-serialport/syncWebDemoV/Scripts/olMap.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Others/HotSpots.htm",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/test.js",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package.json",
+				"/C/Users/CSV/node_modules/serialport/README.md",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/main.js",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/index.js",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.js",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package1.json",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/README.md",
+				"/C/Users/CSV/node_modules/serialport/lib/index.js",
+				"/C/Users/CSV/node_modules/serialport/test.js",
+				"/C/xampp/htdocs/demoSerial/browserSerialport/index.html",
+				"/C/xampp/htdocs/demoSerial/index.php",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/xampp/php/php.ini"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 145.0,
+				"where_history":
+				[
+					"<open files>",
+					"",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"click",
+					"renameSync",
+					"loadLayers",
+					"retable",
+					"loadLayers",
+					"tableSortHmiID",
+					"remark",
+					"tr",
+					"th",
+					"tr",
+					"tableTr",
+					"dataVandA",
+					"loadLayers",
+					"addLampSelect",
+					"pointermove",
+					"deleteFile",
+					"cursor",
+					"drawEndCallBack",
+					"hmiid",
+					"get('",
+					"info",
+					"pointer",
+					"curcor: pointer",
+					"curcor: poiter",
+					"curcor:poiter",
+					"mouse",
+					"draw",
+					"cursor",
+					"pointer",
+					"dataToDraw",
+					"serialModal",
+					"model",
+					"sendCommandSure",
+					"find",
+					"netUidConnect",
+					"LampID",
+					"dataToDraw",
+					"LampID",
+					"$('#adminLog').modal();",
+					"adminRightEndTimer",
+					"<br>",
+					"br",
+					"灯控",
+					"serialModal",
+					"finishLamp",
+					"lampGroupSelectID",
+					"layer",
+					"toggle",
+					"addLampFunc",
+					"adminSelect",
+					"addLamp",
+					"sendCommand",
+					"发送",
+					"button",
+					"commandDisplayID",
+					"style",
+					"commandDisplayID",
+					"drawDataID",
+					"adminSelect",
+					"drawDataID",
+					"history",
+					"drawDataID",
+					"backdrop",
+					"clear",
+					"lampInputInform",
+					"秒后",
+					"close",
+					"dataToDraw",
+					"feature",
+					"dataToDraw",
+					"var coordinate",
+					"var feature",
+					"feature",
+					"feature.get('info').actualID",
+					"info",
+					"lampLocalArray",
+					"drawDataID",
+					"history",
+					"showDetailsInfo",
+					"border-radius",
+					"submitData",
+					"myModalLabel",
+					"createLabel",
+					"map",
+					"onclick",
+					"time",
+					"selectID",
+					"adminOperation",
+					"collapseOne",
+					"addLampFunc",
+					"dataToDraw",
+					"addLampSelect",
+					"submitData",
+					"inputHandUserid",
+					"preFeature",
+					"addLampFunc",
+					"needPasswordFunc",
+					"adminOperationFunc",
+					"collapseOne",
+					"\nlampOnMapFunction",
+					"activeUserFunc",
+					"serialInformation",
+					"myModal",
+					"SerialPort",
+					"addLampFunc",
+					"map",
+					"getElementsByClassID",
+					"getElementsByID",
+					"index",
+					"dataToDraw",
+					"drawData",
+					"无此",
+					"typeSelect",
+					"getElementById",
+					"lampOperation",
+					"pointermove",
+					"typeSelect",
+					"type",
+					"map",
+					"li",
+					".li",
+					"checked",
+					"o",
+					"map",
+					"createLabelStyle",
+					"makerfeature",
+					"winWidth",
+					"showDetailsInfo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 393.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 229.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1342.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DA",
+						"Date"
+					],
+					[
+						"da",
+						"Date"
+					],
+					[
+						"che",
+						"checked〔function〕"
+					],
+					[
+						"S",
+						"Source"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"关闭",
+						"关闭窗口"
+					],
+					[
+						"sou",
+						"Source"
+					],
+					[
+						"mouse",
+						"mouseup\t.mouseup()"
+					],
+					[
+						"mous",
+						"mousedown\t.mousedown()"
+					],
+					[
+						"s",
+						"Styles/"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"sh",
+						"showHideTimer"
+					],
+					[
+						"mo",
+						"mouseover〔function〕"
+					],
+					[
+						"h",
+						"html/"
+					],
+					[
+						"css",
+						"CSS调用"
+					],
+					[
+						"w",
+						"width〔variable〕"
+					],
+					[
+						"doc",
+						"document.getElementById(\"imgApply\").name.toString"
+					],
+					[
+						"data",
+						"dataTime〔variable〕"
+					],
+					[
+						"Da",
+						"DataArray"
+					],
+					[
+						"D",
+						"DataArray"
+					],
+					[
+						"A",
+						"Array"
+					],
+					[
+						"time",
+						"timeSave〔variable〕"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"drawData"
+					],
+					[
+						"dr",
+						"drawData.css"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"ret",
+						"returnData〔variable〕"
+					],
+					[
+						"port",
+						"port.write"
+					],
+					[
+						"send",
+						"sendResponse〔variable〕"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"att",
+						"attData"
+					],
+					[
+						"geo",
+						"geoData"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"la",
+						"layer"
+					],
+					[
+						"userna",
+						"username"
+					],
+					[
+						"p",
+						"userPassword"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"g",
+						"getjson\t$.getjson()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 13814,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/serialport/NodeSerialPort.js",
+					"settings":
+					{
+						"buffer_size": 9789,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/draw/echartsDraw.js",
+					"settings":
+					{
+						"buffer_size": 5107,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/map/OLMaps.js",
+					"settings":
+					{
+						"buffer_size": 26934,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Styles/css/StyleSheet.css",
+					"settings":
+					{
+						"buffer_size": 4017,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/Scripts/map/drawMap.js",
+					"settings":
+					{
+						"buffer_size": 1726,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "web/dataTool/lampBackup.db",
+					"settings":
+					{
+						"buffer_size": 537,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "web/dataTool/lampLocal.db",
+					"settings":
+					{
+						"buffer_size": 749,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "/*\n    Markdown Preview default settings\n*/\n{\n    /*\n        Sets the default opener for HTML files\n\n        default - Use the system default HTML viewer\n        other - Set a full path to any executable. ex: /Applications/Google Chrome Canary.app or /Applications/Firefox.app\n    */\n    \"browser\": \"default\",\n\n    /*\n        Sets the parser used for building markdown to HTML.\n\n        NOTE: The parser setting is not for the preview commands now.\n        The previews have separate commands for each parser markdown.\n\n        Warning for github API: if you have a ST2 linux build, Python is not built with SSL so it may not work\n\n        default - The current default parser is python-markdown parser.\n        markdown - Use the built-in python-markdown parser\n        github - Use the github API to convert markdown, so you can use GitHub flavored Markdown, see https://help.github.com/articles/github-flavored-markdown/\n    */\n    \"parser\": \"default\",\n\n    /*\n        By default, Markdown Preview builds the HTML in the source directory.\n        It expects the file to exist on disk.  It pops up the build output panel etc.\n\n        If you wish to override this behavior, you can change \"build_action\"\n\n        build - The default build behavior.\n        browser - Preview the file in your browser.\n        clipboard - Copy the HTML output to the clipboard.\n        sublime - Export the HTML to a Sublime tab.\n        save - Run the normal save command that outputs to the source directory.\n            It will also prompt for \"save as\" if the file does not exit on disk.\n\n        All the build options use the default parser defined above in \"parser\"\n    */\n    \"build_action\": \"build\",\n\n    /*\n        Enable or not mathjax support.\n    */\n    \"enable_mathjax\": false,\n\n    /*\n        Enable uml support scripts: flowchart.js and sequence-diagram.js.\n    */\n    \"enable_uml\": false,\n\n    /*\n        Enable highlighting. This enables codehilite extension if not already enabled.\n    */\n    \"enable_highlight\": false,\n\n    /*\n        Pygments support for syntax highlighting.  Controls whether codehilite extension\n        will use Pygments.  If disabled, code blocks will be formatted for javascript\n        highighters such as highlight.js.\n\n        If you manually set codehilite as an included extension in \"enabled_extensions\",\n        your settings will override this one.  To configure using pygments manually:\n            \"enabled_extensions\": [\n                \"codehilite(use_pygments=False)\" // <-Turn off pygments usage\n            ]\n    */\n    \"enable_pygments\": true,\n\n    /*\n        Sets whether highlight JS will auto-guess raw block's syntax.\n        Alternative is to to only highlight blocks where a language has\n        been defined.\n\n        Default is True (guess).\n\n        If you manually set codehilite as an included extension in \"enabled_extensions\",\n        your settings will override this one.  To configure language guessing manually:\n            \"enabled_extensions\": [\n                \"codehilite(guess_lang=False)\" // <-Turn off language guessing\n            ]\n    */\n    \"guess_language\": true,\n\n    /*\n        List of enabled extensions of the selected markdown parser.\n\n        You can get the full list of extensions at:\n            * The python markdown parser, the `markdown`: http://pythonhosted.org/Markdown/extensions/index.html\n\n\n        default - use the default set of extensions, see table later.\n        [ \"default\", \"def_list\", ... ] - a list of extensions. Use \"default\" to include the default extensions.\n\n            Parser     | \"default\" Values\n        ------------|---------------------------\n            default    | [\"extra\", \"github\", \"toc\", \"meta\", \"sane_lists\", \"smarty\", \"wikilinks\"]\n            markdown   | [\"extra\", \"github\", \"toc\", \"meta\", \"sane_lists\", \"smarty\", \"wikilinks\"]\n            github     | extension's values are not used.\n\n    */\n    \"enabled_extensions\": \"default\",\n\n    /*\n        Enabled parsers for the parser \"select parser\" command\n        Available parsers: markdown, github\n\n        When there are more than one parser in the list, Sublime will prompt\n        via the quick panel for which one to use.  If there is only one, it\n        will automatically run that parser.\n    */\n    \"enabled_parsers\": [\"markdown\", \"github\"],\n\n    /*\n        Custom external markdown parsers.\n\n        \"markdown_binary_map\" contains key values pairs.  The key\n        is name of the parser and what is used in \"enabled_parsers\"\n        to turn on the access to the parser.  The value is an array\n        containing the path to the binary and all the parameters that\n        are desired.\n\n        Multimarkdown is provided as an example below.  It's path may differ\n        on your system.\n    */\n\n    \"markdown_binary_map\": {\n        \"multimarkdown\": [\"/usr/local/bin/multimarkdown\"]\n    },\n\n    /*\n        Default mode for the github Markdown parser : markdown (documents) or gfm (comments)\n        see http://developer.github.com/v3/markdown/#render-an-arbitrary-markdown-document\n    */\n    \"github_mode\": \"markdown\",\n\n    /*\n        Enables a post process to inject header ids to ensure hrefs to headers work\n    */\n    \"github_inject_header_ids\": false,\n\n    /*\n        Uses an OAuth token when parsing markdown with GitHub API. To create one for Markdown Preview, see https://help.github.com/articles/creating-an-oauth-token-for-command-line-use.\n        Warn: this secret *must not be shared* with anyone and at least you should create it with minimal scopes for security reasons.\n    */\n    // \"github_oauth_token\": \"secret\",\n\n    /*\n        Sets the default css file to embed in the HTML\n\n        default - Use the builtin CSS or github CSS, depending on parser config (markdown.css or github.css)\n        other - Set an absolute path or url to any css file\n\n        Should be an array, but will take a single string to support legacy convention.\n    */\n    \"css\": [\"default\"],\n\n    /*\n        Allow CSS overrides\n\n        true - Any file with matching a .markdown_filetype extension with .css will be loaded as an override\n        false - Matching files ignored\n    */\n    \"allow_css_overrides\": true,\n\n    /*\n        Specify a HTML template file to render your markdown within.\n\n        Available place holders in HTML template:\n        {{ HEAD }} - would be replaced by generated stylesheets, javascripts enabled above\n        {{ BODY }} - would be replaced by HTML converted from markdown\n\n        By setting \"skip_default_stylesheet\" to true you can use the styles only in your HTML\n        template. In most cases you should turn this setting on to have a full-featured design.\n\n        Refer to 'customized-template-sample.html' as a show case.\n    */\n    // \"html_template\": \"/ABS_PATH_TO_A_HTML_FILE\",\n    // \"skip_default_stylesheet\": true,\n\n\n    /*\n        Sets the JavaScript files to embed in the HTML\n\n        Set an array of URLs or filepaths to JavaScript files. Absolute filepaths will be loaded\n        into the script tag; others will be set as the `src` attribute. The order of files in the\n        array is the order in which they are embedded.\n    */\n    // \"js\": [\"http://example.com/script.js\", \"/path/to/script.js\"],\n\n    /*\n        Enable or not whether parsed files will be auto-reloaded on save\n    */\n    \"enable_autoreload\": false,\n\n    /*\n        Sets the supported filetypes for auto-reload on save\n    */\n    \"markdown_filetypes\": [\".md\", \".markdown\", \".mdown\"],\n\n    /*\n        Sets a custom temporary folder for MarkdownPreview-generated HTML files. Useful if you're\n        using LiveReload and don't want to use the OS default. The directory will be created if it\n        doesn't exist. Relative paths are supported, and are checked against `os.path.isabs`, see\n        doc: http://docs.python.org/3/library/os.path.html#os.path.isabs\n\n        Examples: /tmp/custom_folder   (Linux/OSX - absolute path)\n                    C:/TEMP/MYNOTES\n                    C:\\\\TEMP\\\\MYNOTES    (Windows - absolute path, forward slash or escaped back slash)\n                    build                (All OS - relative path, current dir)\n                    ../build             (Linux/OSX - relative path, in parent dir)\n                    ..\\\\build            (Windows - relative path, in parent dir)\n    */\n    // \"path_tempfile\": \"/tmp/my_notes\",\n\n    /*\n        Sets HTML output to a simple form:\n            - No head\n            - No body tags\n            - ids, classes, and style are stripped out\n            - Just bare minimum HTML tags and attributes\n            - extension modifications included\n    */\n    \"html_simple\": false,\n\n    /*\n        Sets how image paths are handled.\n        Setting is a string value: (absolute | relative | base64 | none)\n            absolute: converts relative local paths to absolute\n            relative: converts relative local paths to a path relative to the\n                        HTML output\n            base64: coverts the local file to base64 and embeds it in the HTML\n            none: does nothing\n    */\n    \"image_path_conversion\": \"absolute\",\n\n    /*\n        Sets how file paths are handled.\n        Setting is a string value: (absolute | relative | none)\n            absolute: converts relative local paths to absolute\n            relative: converts relative local paths to a path relative to the\n                        HTML output\n            none: does nothing\n    */\n    \"file_path_conversions\": \"absolute\",\n\n    /*\n        Sets how multimarkdown critic marks are handled.\n        Setting is a string value: (accept | reject | none)\n            accept: Accepts the proposed inserts and deletions (comments etc. are discarded)\n            reject: Rejects the proposed inserts and deletions (comments etc. are discarded)\n            none: does nothing\n\n        Critic marks only affects \"github\" and \"markdown\" (Python Markdown).\n    */\n    \"strip_critic_marks\": \"none\",\n\n    /*\n        Strips the YAML front matter header and converts title to a heading\n    */\n    \"strip_yaml_front_matter\": false,\n\n    /* do we show the panel when build with CMD+B */\n    \"show_panel_on_build\": true,\n\n    /* do we include the CSS when outputting HTML into a new sublime view ? */\n    \"embed_css_for_sublime_output\": true\n}\n",
+					"file": "/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 10276,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1679,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter t",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"phpfmt",
+						"phpfmt: format now"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sna func",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"ht",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"latex",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/webDemoNedbV20180110afternoon"
+			],
+			"file_history":
+			[
+				"/D/webDemoNedbV20180110afternoon/web/README.md",
+				"/D/webDemoNedbV20180110afternoon/web/dataTool/dbService.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate/dataVandA20180111.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/mapBasic.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/SysFun.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa5208.33544/OLMaps.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa11776.28996/OLMaps.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/lampBackups/lampBackup.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/netUidConnect.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate - 副本/dataVandA2018110.db",
+				"/E/temp_geo/webDemoNedbV20180110/main.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/form.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/drawData.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/OLMaps.js",
+				"/C/Users/13010/Desktop/新建文本文档 (2).txt",
+				"/C/Users/13010/Desktop/新建文本文档.txt",
+				"/E/temp_geo/webDemoNedbV20180110/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171221.db",
+				"/D/webDemoNedbV20180102/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV20180102/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/Scripts/map/mapBasic.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/form.css",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV20180102/web/Scripts/map/drawMap.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV20180102/web/dataTool/dbService.js",
+				"/C/Users/CSV/Desktop/高程和路线信息（学院路）.txt",
+				"/C/Program Files (x86)/foobar2000/汉化说明.txt",
+				"/D/webDemoNedbV20180102/web/Scripts/draw/echartsDraw.js",
+				"/C/Users/CSV/AppData/Local/ElectronAPIDemos/app-1.3.0/resources/app/sections/windows/modal.html",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA201814.db",
+				"/D/webDemoNedbV20180102/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV20180102/web/index1.html",
+				"/D/webDemoNedbV20180102/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV20180102/main.js",
+				"/D/webDemoNedbV16/package.json",
+				"/D/webDemoNedbV20180102/web/Scripts/map/OLMaps.js",
+				"/D/webDemoNedbV20180102/bower_components/bootstrap/dist/css/bootstrap.css",
+				"/D/webDemoNedbV20180102/web/html/serialPortInformation.html",
+				"/C/Users/CSV/Desktop/201610111542/index.html",
+				"/D/webDemoNedbV20180102/web/html/login.html",
+				"/D/webDemoNedbV/web/html/floatingWindow.tpl",
+				"/D/webDemoNedbV/web/html/map.tpl",
+				"/D/webDemoNedbV/web/Scripts/olMap.js",
+				"/D/webDemoNedbV/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV/main.js",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-fbfffa58181978453-20.dop/Read me!!!.txt",
+				"/D/webDemoNedbV/web/Libs/ol/ol.css",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV/web/Scripts/d3data.js",
+				"/D/webDemoNedbV/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/webDemoNedbV/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV/bower_components/bootstrap/dist/js/bootstrap.js",
+				"/D/webDemoNedbV/web/Scripts/d3data1.js",
+				"/D/webDemoNedbV/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/MultiFill/MultiFill.sublime-settings",
+				"/D/webDemoNedbV/web/Libs/ol/ol.js",
+				"/D/webDemoNedbV/package.json",
+				"/D/webDemoNedbV/web/dataTool/dbService.js",
+				"/D/webDemoNedbV/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171225.db",
+				"/D/webDemoNedbV/web/Source/data/data.csv",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/D/webDemoNedbV/web/Source/data/stocks.csv",
+				"/D/webDemoNedbV/node_modules/d3-dsv/src/csv.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/temp_geo/webDemoNedbV035/web/Scripts/Openlayers/drawMap.js",
+				"/E/temp_geo/webDemoNedbV035/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV034/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV01/web/Scripts/Openlayers/drawMap.js",
+				"/D/webDemoNedbV01/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.cpp",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.h",
+				"/D/webDemoNedbV01/node_modules/serialport/.eslintrc.js",
+				"/D/webDemoNedbV01/web/dataTool/DateStore.db",
+				"/D/webDemoNedbV01/web/dataTool/DateStore20171219.db",
+				"/C/Users/CSV/Documents/2017LV-WinChn/2017LV-WinChn/NI License Activator 1.1/readme.txt",
+				"/D/webDemoNedbV01/package.json",
+				"/D/webDemoNedbV01/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js",
+				"/D/webDemoNedbV01/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV01/main.js",
+				"/D/webDemoVnedb/web/dataTool/lampLocal.db",
+				"/C/Python27/README.txt",
+				"/D/webDemoVnedb/web/html/serialPortInformation.html",
+				"/D/webDemoVnedb/web/Scripts/serialport/renderer.js",
+				"/D/webDemoVnedb/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/D/webDemoVnedb/web/dataTool/12345mails.db",
+				"/D/webDemoVnedb/main1.js",
+				"/C/Users/CSV/Desktop/watcher-master/app/libs/dbService.js",
+				"/D/webDemoV/web/Scripts/layer/layer.js",
+				"/D/webDemoV/renderer.js",
+				"/D/webDemoV/web/index.html",
+				"/D/webDemoV/node_modules/isarray/build/build.js",
+				"/D/electron-serialport (2)/main.js",
+				"/D/webDemoV/package.json",
+				"/D/webDemoV/node_modules/yargs/yargs.js",
+				"/D/webDemoV/web/Libs/ol/ol-debug.js",
+				"/D/webDemoV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Drawing/SaveFeatures.htm",
+				"/D/electron-serialport/syncWebDemoV/Scripts/olMap.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Others/HotSpots.htm",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/test.js",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package.json",
+				"/C/Users/CSV/node_modules/serialport/README.md",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/main.js",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/index.js",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.js",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package1.json",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/README.md",
+				"/C/Users/CSV/node_modules/serialport/lib/index.js",
+				"/C/Users/CSV/node_modules/serialport/test.js",
+				"/C/xampp/htdocs/demoSerial/browserSerialport/index.html",
+				"/C/xampp/htdocs/demoSerial/index.php",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/xampp/php/php.ini"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 145.0,
+				"where_history":
+				[
+					"<open files>",
+					"",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"click",
+					"renameSync",
+					"loadLayers",
+					"retable",
+					"loadLayers",
+					"tableSortHmiID",
+					"remark",
+					"tr",
+					"th",
+					"tr",
+					"tableTr",
+					"dataVandA",
+					"loadLayers",
+					"addLampSelect",
+					"pointermove",
+					"deleteFile",
+					"cursor",
+					"drawEndCallBack",
+					"hmiid",
+					"get('",
+					"info",
+					"pointer",
+					"curcor: pointer",
+					"curcor: poiter",
+					"curcor:poiter",
+					"mouse",
+					"draw",
+					"cursor",
+					"pointer",
+					"dataToDraw",
+					"serialModal",
+					"model",
+					"sendCommandSure",
+					"find",
+					"netUidConnect",
+					"LampID",
+					"dataToDraw",
+					"LampID",
+					"$('#adminLog').modal();",
+					"adminRightEndTimer",
+					"<br>",
+					"br",
+					"灯控",
+					"serialModal",
+					"finishLamp",
+					"lampGroupSelectID",
+					"layer",
+					"toggle",
+					"addLampFunc",
+					"adminSelect",
+					"addLamp",
+					"sendCommand",
+					"发送",
+					"button",
+					"commandDisplayID",
+					"style",
+					"commandDisplayID",
+					"drawDataID",
+					"adminSelect",
+					"drawDataID",
+					"history",
+					"drawDataID",
+					"backdrop",
+					"clear",
+					"lampInputInform",
+					"秒后",
+					"close",
+					"dataToDraw",
+					"feature",
+					"dataToDraw",
+					"var coordinate",
+					"var feature",
+					"feature",
+					"feature.get('info').actualID",
+					"info",
+					"lampLocalArray",
+					"drawDataID",
+					"history",
+					"showDetailsInfo",
+					"border-radius",
+					"submitData",
+					"myModalLabel",
+					"createLabel",
+					"map",
+					"onclick",
+					"time",
+					"selectID",
+					"adminOperation",
+					"collapseOne",
+					"addLampFunc",
+					"dataToDraw",
+					"addLampSelect",
+					"submitData",
+					"inputHandUserid",
+					"preFeature",
+					"addLampFunc",
+					"needPasswordFunc",
+					"adminOperationFunc",
+					"collapseOne",
+					"\nlampOnMapFunction",
+					"activeUserFunc",
+					"serialInformation",
+					"myModal",
+					"SerialPort",
+					"addLampFunc",
+					"map",
+					"getElementsByClassID",
+					"getElementsByID",
+					"index",
+					"dataToDraw",
+					"drawData",
+					"无此",
+					"typeSelect",
+					"getElementById",
+					"lampOperation",
+					"pointermove",
+					"typeSelect",
+					"type",
+					"map",
+					"li",
+					".li",
+					"checked",
+					"o",
+					"map",
+					"createLabelStyle",
+					"makerfeature",
+					"winWidth",
+					"showDetailsInfo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13814,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1182,
+										1182
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												901,
+												902
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												867,
+												868
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1175,
+												1181
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1134,
+												1140
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 435.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "web/Scripts/serialport/NodeSerialPort.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9789,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1696,
+										1696
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7363,
+												7364
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7362,
+												7363
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7363,
+												7364
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7362,
+												7363
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 847.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "web/Scripts/draw/echartsDraw.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										482,
+										482
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4430,
+												4431
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												572,
+												573
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1000,
+												1001
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												129,
+												130
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 87.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "web/Scripts/map/OLMaps.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26934,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										607,
+										607
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 38,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												674,
+												675
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												447,
+												448
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 261.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "web/Styles/css/StyleSheet.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4017,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2257,
+										2259
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4294.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "web/Scripts/map/drawMap.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1726,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1192,
+										1192
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 441.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "web/dataTool/lampBackup.db",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 537,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "web/dataTool/lampLocal.db",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 749,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10276,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10276,
+										10276
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 52,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"markdonw_live_preview_last_run": 1515718883.94,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7308.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1679,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1677,
+										1677
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 928.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 393.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,778,104,104,1462",
+			"project": "Sublime.sublime-project",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 229.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 126,
+			"workspace_name": "/D/webDemoNedbV20180110afternoon/Sublime.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DA",
+						"Date"
+					],
+					[
+						"da",
+						"Date"
+					],
+					[
+						"che",
+						"checked〔function〕"
+					],
+					[
+						"S",
+						"Source"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"关闭",
+						"关闭窗口"
+					],
+					[
+						"sou",
+						"Source"
+					],
+					[
+						"mouse",
+						"mouseup\t.mouseup()"
+					],
+					[
+						"mous",
+						"mousedown\t.mousedown()"
+					],
+					[
+						"s",
+						"Styles/"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"sh",
+						"showHideTimer"
+					],
+					[
+						"mo",
+						"mouseover〔function〕"
+					],
+					[
+						"h",
+						"html/"
+					],
+					[
+						"css",
+						"CSS调用"
+					],
+					[
+						"w",
+						"width〔variable〕"
+					],
+					[
+						"doc",
+						"document.getElementById(\"imgApply\").name.toString"
+					],
+					[
+						"data",
+						"dataTime〔variable〕"
+					],
+					[
+						"Da",
+						"DataArray"
+					],
+					[
+						"D",
+						"DataArray"
+					],
+					[
+						"A",
+						"Array"
+					],
+					[
+						"time",
+						"timeSave〔variable〕"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"drawData"
+					],
+					[
+						"dr",
+						"drawData.css"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"ret",
+						"returnData〔variable〕"
+					],
+					[
+						"port",
+						"port.write"
+					],
+					[
+						"send",
+						"sendResponse〔variable〕"
+					],
+					[
+						"req",
+						"require〔function〕"
+					],
+					[
+						"att",
+						"attData"
+					],
+					[
+						"geo",
+						"geoData"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"la",
+						"layer"
+					],
+					[
+						"userna",
+						"username"
+					],
+					[
+						"p",
+						"userPassword"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"g",
+						"getjson\t$.getjson()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/webDemoNedbV20180110afternoon/web/README.md",
+					"settings":
+					{
+						"buffer_size": 851,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows",
+						"name": "README.md - Preview",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter t",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"phpfmt",
+						"phpfmt: format now"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"sna func",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"ht",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"latex",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/webDemoNedbV20180110afternoon/web/README.md",
+				"/D/webDemoNedbV20180110afternoon/web/dataTool/dbService.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate/dataVandA20180111.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/mapBasic.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/SysFun.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa5208.33544/OLMaps.js",
+				"/C/Users/13010/AppData/Local/Temp/Rar$DIa11776.28996/OLMaps.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/lampBackups/lampBackup.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/netUidConnect.db",
+				"/E/temp_geo/webDemoNedbV20180110/web/dataTool/dataDate - 副本/dataVandA2018110.db",
+				"/E/temp_geo/webDemoNedbV20180110/main.js",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/form.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Styles/css/drawData.css",
+				"/E/temp_geo/webDemoNedbV20180110/web/Scripts/map/OLMaps.js",
+				"/C/Users/13010/Desktop/新建文本文档 (2).txt",
+				"/C/Users/13010/Desktop/新建文本文档.txt",
+				"/E/temp_geo/webDemoNedbV20180110/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171221.db",
+				"/D/webDemoNedbV20180102/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV20180102/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV20180102/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV20180102/web/Scripts/map/mapBasic.js",
+				"/D/webDemoNedbV20180102/web/Styles/css/form.css",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV20180102/web/Scripts/map/drawMap.js",
+				"/D/webDemoNedbV20180102/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV20180102/web/dataTool/dbService.js",
+				"/C/Users/CSV/Desktop/高程和路线信息（学院路）.txt",
+				"/C/Program Files (x86)/foobar2000/汉化说明.txt",
+				"/D/webDemoNedbV20180102/web/Scripts/draw/echartsDraw.js",
+				"/C/Users/CSV/AppData/Local/ElectronAPIDemos/app-1.3.0/resources/app/sections/windows/modal.html",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV20180102/web/dataTool/dataVandA201814.db",
+				"/D/webDemoNedbV20180102/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV20180102/web/index1.html",
+				"/D/webDemoNedbV20180102/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV20180102/main.js",
+				"/D/webDemoNedbV16/package.json",
+				"/D/webDemoNedbV20180102/web/Scripts/map/OLMaps.js",
+				"/D/webDemoNedbV20180102/bower_components/bootstrap/dist/css/bootstrap.css",
+				"/D/webDemoNedbV20180102/web/html/serialPortInformation.html",
+				"/C/Users/CSV/Desktop/201610111542/index.html",
+				"/D/webDemoNedbV20180102/web/html/login.html",
+				"/D/webDemoNedbV/web/html/floatingWindow.tpl",
+				"/D/webDemoNedbV/web/html/map.tpl",
+				"/D/webDemoNedbV/web/Scripts/olMap.js",
+				"/D/webDemoNedbV/web/Styles/css/StyleSheet.css",
+				"/D/webDemoNedbV/web/Styles/css/drawData.css",
+				"/D/webDemoNedbV/main.js",
+				"/C/Users/CSV/AppData/Local/Temp/dtemp-fbfffa58181978453-20.dop/Read me!!!.txt",
+				"/D/webDemoNedbV/web/Libs/ol/ol.css",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171222.db",
+				"/D/webDemoNedbV/web/Scripts/d3data.js",
+				"/D/webDemoNedbV/web/Scripts/draw/echartsDraw.js",
+				"/D/webDemoNedbV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/webDemoNedbV/web/Scripts/serialport/NodeSerialPort.js",
+				"/D/webDemoNedbV/web/Scripts/SysFun.js",
+				"/D/webDemoNedbV/bower_components/bootstrap/dist/js/bootstrap.js",
+				"/D/webDemoNedbV/web/Scripts/d3data1.js",
+				"/D/webDemoNedbV/web/dataTool/lampLocal.db",
+				"/D/webDemoNedbV/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/MultiFill/MultiFill.sublime-settings",
+				"/D/webDemoNedbV/web/Libs/ol/ol.js",
+				"/D/webDemoNedbV/package.json",
+				"/D/webDemoNedbV/web/dataTool/dbService.js",
+				"/D/webDemoNedbV/node_modules/d3/build/d3.js",
+				"/D/webDemoNedbV/web/dataTool/dataVandA20171225.db",
+				"/D/webDemoNedbV/web/Source/data/data.csv",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/D/webDemoNedbV/web/Source/data/stocks.csv",
+				"/D/webDemoNedbV/node_modules/d3-dsv/src/csv.js",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/temp_geo/webDemoNedbV035/web/Scripts/Openlayers/drawMap.js",
+				"/E/temp_geo/webDemoNedbV035/web/Styles/css/StyleSheet.css",
+				"/E/temp_geo/webDemoNedbV034/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/web/dataTool/netUidConnect.db",
+				"/D/webDemoNedbV01/web/Scripts/Openlayers/drawMap.js",
+				"/D/webDemoNedbV01/web/dataTool/dbService.js",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.cpp",
+				"/D/webDemoNedbV01/node_modules/serialport/src/serialport.h",
+				"/D/webDemoNedbV01/node_modules/serialport/.eslintrc.js",
+				"/D/webDemoNedbV01/web/dataTool/DateStore.db",
+				"/D/webDemoNedbV01/web/dataTool/DateStore20171219.db",
+				"/C/Users/CSV/Documents/2017LV-WinChn/2017LV-WinChn/NI License Activator 1.1/readme.txt",
+				"/D/webDemoNedbV01/package.json",
+				"/D/webDemoNedbV01/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js",
+				"/D/webDemoNedbV01/web/Scripts/serialport/SerialPortInformation.js",
+				"/D/webDemoNedbV01/main.js",
+				"/D/webDemoVnedb/web/dataTool/lampLocal.db",
+				"/C/Python27/README.txt",
+				"/D/webDemoVnedb/web/html/serialPortInformation.html",
+				"/D/webDemoVnedb/web/Scripts/serialport/renderer.js",
+				"/D/webDemoVnedb/web/SLOnlineSystemByOL3/Scripts/SLSysFun.js",
+				"/D/webDemoVnedb/web/dataTool/12345mails.db",
+				"/D/webDemoVnedb/main1.js",
+				"/C/Users/CSV/Desktop/watcher-master/app/libs/dbService.js",
+				"/D/webDemoV/web/Scripts/layer/layer.js",
+				"/D/webDemoV/renderer.js",
+				"/D/webDemoV/web/index.html",
+				"/D/webDemoV/node_modules/isarray/build/build.js",
+				"/D/electron-serialport (2)/main.js",
+				"/D/webDemoV/package.json",
+				"/D/webDemoV/node_modules/yargs/yargs.js",
+				"/D/webDemoV/web/Libs/ol/ol-debug.js",
+				"/D/webDemoV/web/Scripts/Openlayers/OLMaps.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Drawing/SaveFeatures.htm",
+				"/D/electron-serialport/syncWebDemoV/Scripts/olMap.js",
+				"/D/electron-serialport/syncWebDemoV/OL3Demo/demos/Others/HotSpots.htm",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/test.js",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package.json",
+				"/C/Users/CSV/node_modules/serialport/README.md",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/main.js",
+				"/C/Users/CSV/AppData/Roaming/npm/node_modules/electron-prebuilt/node_modules/safe-buffer/index.js",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.js",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/demoSerial/nodeSerial/index.html",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/package1.json",
+				"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/README.md",
+				"/C/Users/CSV/node_modules/serialport/lib/index.js",
+				"/C/Users/CSV/node_modules/serialport/test.js",
+				"/C/xampp/htdocs/demoSerial/browserSerialport/index.html",
+				"/C/xampp/htdocs/demoSerial/index.php",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/CSV/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/xampp/php/php.ini"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 145.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/webDemoNedbV20180110afternoon/web/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 851,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										851,
+										851
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"markdonw_live_preview_last_run": 1515718993.55,
+									"markdown_live_preview_enabled": true,
+									"markdown_live_preview_id": 68,
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 986.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"markdonw_live_preview_last_run": 1515718908.66,
+									"syntax": "Packages/MarkdownLivePreview/.sublime/MarkdownLivePreviewSyntax.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 924.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 393.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,752,-1842,78,-484",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"markdown_live_preview_window": true
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 229.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 127,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/webDemoNedbTestSignal/Sublime.sublime-workspace",
+			"/D/webDemoNedbV20180110afternoon/Sublime.sublime-workspace",
+			"/D/webDemoNedbV20180102 (2)/webDemoNedbV20180102/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V20180107/Lamp_M/Sublime.sublime-workspace",
+			"/D/webDemoNedbV20180102/Sublime.sublime-workspace",
+			"/D/webDemoNedbV16/Sublime.sublime-workspace",
+			"/C/Users/CSV/Documents/Tencent Files/839364051/FileRecv/webDemoNedbV20180107/webDemoNedbV20180107/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V/Lamp_M/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/HZ_Smart_C_V/Lamp_S/Sublime.sublime-workspace",
+			"/D/webDemoV/Sublime.sublime-workspace",
+			"/D/FangCloudV2/tudou/yangSync/webDemoNedbV/Sublime.sublime-workspace",
+			"/D/webDemoNedbV/Sublime.sublime-workspace",
+			"/D/webDemoNedbV04/Sublime.sublime-workspace",
+			"/D/webDemoNedbV0361/Sublime.sublime-workspace",
+			"/D/webDemoNedbV03/Sublime.sublime-workspace",
+			"/D/webDemoNedbV02/Sublime.sublime-workspace",
+			"/D/webDemoNedbV01/Sublime.sublime-workspace",
+			"/D/HZ_Smart_C_V/Lamp_S/Sublime.sublime-workspace",
+			"/D/HZ_Smart_C_V/Lamp_M/Sublime.sublime-workspace",
+			"/D/webDemoVnedb/Sublime.sublime-workspace",
+			"/D/electron-serialport/Sublime.sublime-workspace",
+			"/D/electron-serialport/sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/electron-serialport-master/electron-serialport-master/sublime.sublime-workspace",
+			"/C/xampp/htdocs/sublime.sublime-workspace",
+			"/C/Users/CSV/Downloads/browser-serialport-master/browser-serialport-master/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/serial-master/serial.sublime-workspace",
+			"/C/Users/CSV/syncWebDemoV/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/serwebproxy-1.12/serwebproxy-1.12/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/web-serialDebug-master/web-serialDebug-master/Sublime.sublime-workspace",
+			"/C/Users/CSV/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/Public/Documents/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/CSV/syncWebDemoV0.2/syncWebDemo/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/demov0.1/demo/Sublime.sublime-workspace",
+			"/C/Users/CSV/Desktop/个人年度总结/sublimeProject.sublime-workspace"
+		]
+	}
+}
